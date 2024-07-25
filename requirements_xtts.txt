@@ -58,7 +58,7 @@
 # # pip install TTS==0.21.1  --no-deps
 
 # core deps
-numpy==1.22.0
+numpy==1.23.5
 cython>=0.29.30
 scipy>=1.11.2
 torch
